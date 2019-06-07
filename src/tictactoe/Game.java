@@ -46,11 +46,8 @@ import java.util.Scanner;
 	    public Game() {
 	        initComponents();
 	        addAction();
-               
-                
                   
 	    }
-	    
 	    
 	    int x_or_o = 0;
 	    
