@@ -149,20 +149,6 @@ public class InitialScreen implements ActionListener{
 		window.setVisible(true);
 		
 	}
-    
-/*
-	public void createGameScreen(){
-		
-		Game game = new Game();
-		game.setVisible(true);
-		// = true;
-		//jLabelMSG.setText(PlayerXName.getText() + "vs" + PlayerOName.getText());
-		
-		
-		
-	}
-	
-	*/
 	
 	public void createGameScreen(ActionEvent evt) throws IOException {
 		xName = PlayerXName.getText().trim();
